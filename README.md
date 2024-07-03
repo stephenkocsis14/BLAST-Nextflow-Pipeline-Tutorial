@@ -27,7 +27,6 @@ The Nextflow BLAST pipeline simplifies the process of running BLAST by automatin
 
 - [Nextflow](https://www.nextflow.io/)
 - [BLAST+](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastDocs&DOC_TYPE=Download)
-- Java 8 or higher
 - An internet connection (for downloading dependencies)
 
 ## Installation
