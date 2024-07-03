@@ -17,4 +17,7 @@ makeblastdb -in GCF_000001635.27_GRCm39_genomic.fna -dbtype nucl -input_type fas
 blastn -db MusMusculus -query sample_mouse_genes.fasta -out blastout.txt
 ```
 
-
+**View blastout.txt Results**
+```sh
+less blastout.txt
+```
