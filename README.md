@@ -24,7 +24,7 @@ The Nextflow BLAST pipeline simplifies the process of running BLAST by automatin
 - **Automated BLAST execution**: Streamlines the process of running BLAST.
 - **Modular design**: Easy to customize and extend.
 - **Scalability**: Utilizes Nextflow's parallel execution capabilities.
-- **Compatibility**: Supports various BLAST tools including `blastn`, `blastp`, `blastx`, `tblastn`, and `tblastx`.
+- **Compatibility**: Supports various BLAST tools including blastn, blastp, tblastn, and blastx.
 
 ## Requirements
 
