@@ -37,5 +37,5 @@ The Nextflow BLAST pipeline simplifies the process of running BLAST by automatin
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/nextflow-blast-pipeline.git
-   cd nextflow-blast-pipeline
+   git clone https://github.com/stephenkocsis14/BLAST-nextflow-pipeline.git
+   cd BLAST-nextflow-pipeline
